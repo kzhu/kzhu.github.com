@@ -186,3 +186,8 @@ footer {
   font-size: 0.65em;
   text-align: center;
 }
+
+footer img {
+  margin-top: 1em;
+  margin-bottom: 5em;
+}

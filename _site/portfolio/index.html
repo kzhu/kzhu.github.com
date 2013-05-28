@@ -1,32 +1,29 @@
-<!DOCTYPE html>
+  <!DOCTYPE html>
 <html>
 <head>
   <meta charset=utf-8 />
   <title>  Portfolio |  KZhu.net </title>
-  <link rel="stylesheet" href="/css/styles.css" />
-  <link href='http://fonts.googleapis.com/css?family=Raleway:200,800' rel='stylesheet' type='text/css'>
-<link rel="icon" 
+  
+  <link rel="stylesheet" type="text/css" href="css/normalize.css" media="screen">
+  <link rel="stylesheet" type="text/css" href="css/grid.css" media="screen">
+  <link href='http://fonts.googleapis.com/css?family=Didact+Gothic|Yanone+Kaffeesatz' rel='stylesheet' type='text/css'>  <link rel="stylesheet" type="text/css" href="css/style.css" media="screen">
+  <link rel="icon" 
       type="image/png" 
       href="img/kz_favicon.png">
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scaleable=no">
 
 </head>
 <body>
 
-  <div class = "content-960">
-  <div class = "header">
-  <div class="line-seperator-header"></div>
-      <div class="content-720">
-        <div class="content-220">
+  <div class = "container clearfix">
+    <div class ="grid_4 alpha" id="header">
+
           <h1> <a href="/">Kejia Zhu</a> </h1>
-        </div>
         
-        <div class="content-540">
          <h2>I make digital products and services.<br/>
           This is a record of what I’m doing and the thoughts I’m having.</h2>
-        </div>
-
-
-<div class="line-seperator-thin"></div>
+    </div>
 
 <!-- Navigation
 
@@ -42,9 +39,9 @@
     <div class="line-seperator-thin"></div>
     </nav>
   -->
-</div>
-</div>
-    <h2>Work</h2>
+      
+    <div class="grid_9" id="content">
+          <h2>Work</h2>
 
 <ul class="entries">
 
@@ -110,11 +107,12 @@
 
 </ul>
 
-    
-
-    <footer>
-      <img src="/img/kz_favicon.png" />
-    </footer>
+    </div>
+    <div class="grid_2 omega"></div>
+    <div class="grid_4 alpha"></div>
+    <div class="grid_9" id="footer">
+            <img src="/img/kz_favicon.png" />
+    </div>
   </div>
 </body>
 </html>

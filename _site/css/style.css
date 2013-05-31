@@ -1,7 +1,7 @@
 /* Global */
 
 body {
-  font-family: 'Didact Gothic', sans-serif;
+  font-family: 'Georgia', serif;
   font-weight: 100;
   font-size: 1.125em;
 }
@@ -18,23 +18,56 @@ img, object
 /* Typography */
 
 h1{
-	font-family:'Yanone Kaffeesatz', sans-serif;
-	font-size: 1.750em;
-	font-size: 2.5vw;
-	font-weight: 100;
+	font-family:'Droid Sans', sans-serif;
+	font-size: 5em;
+	font-size: 8vw;
+	font-weight: 200;
 }
 
+
+
 h2{
-	font-family:'Yanone Kaffeesatz', sans-serif;
+	font-family:'Droid Sans', sans-serif;
 	font-size: 1.500em;
 }
 
-/* Media Queries*/
-/* Medium*/
+#top_bar{
+	background-color: #00A599;
+	height: 5em;
+	height: 10vw;
+	max-height: 40px; 
+
+}
 
 #social_icons{
-		font-size: 1.5em;
+		font-size: 1.5em;	
+		text-align: right;
+		float: left;
+		width: 80%;
+		margin-top: 0.25em;
 }
+
+#social_icons a {
+	color: #fff;
+	text-decoration: none;
+	margin-right: 0.25em;
+}
+
+#face {
+	width: 20%;
+	float: left;
+}
+
+#face img
+{
+	margin-left: 0.25em;
+	margin-top: 0.5em;
+	max-width: 100%;
+}
+
+
+/* Media Queries*/
+/* Medium*/
 
 @media screen and (max-width: 1280px) {
 
@@ -69,14 +102,4 @@ h2{
 	font-size: 1.5em;
 	width: 40%;
 	float: left;
-}
-
-#social_icons
-{
-	width: 60%;
-	float: left;
-	padding-top: 25px;
-	word-spacing: 1.25em;
-}
-
 }

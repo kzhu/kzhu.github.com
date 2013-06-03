@@ -1,9 +1,11 @@
 ---
 layout: default
 ---
-<h2 class="content">{{page.title}}</h2>
-<p>{{page.date| date: "%d-%m-%Y"}}</p>
-
-<div class="blog_content">
+<div class="post_image"><img src="{{page.image}}"></div>
+<div class="container">
+	<h2 class="post_title">{{page.title}}</h2>
+	<div class="date">{{page.date| date: "%d-%m-%Y"}}</div>
+	<div class="post_content">
 {{ content }}
+</div>
 </div>

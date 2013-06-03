@@ -1,63 +1,32 @@
 ---
 layout: default
 ---
-<section class="content-720">
-  <h1> <a href="/">Kejia Zhu</a> </h1>
-  <h3>
-  I’m a UX designer and product manager. <br />
-  My goal is to bring better digital products and services into the world.
-</h3> 
+  <div class="container">
+  <h1>Kejia Zhu </h1>
+  <h3 id="blurb">
+  I create digital products and services <br />
+  Here's a collection of what I'm working on and thinking about.
+  </h3> 
+  </div>
+<ul>
+{% for post in site.categories.blog %}
+<li>
+<div class="line-seperator container"></div>
+<div class="container">
+<a href="{{ post.url }}">
+  <h2 class="post_title">{{post.title}}</h2>
+  </a>
+<div class="date">{{post.date| date: "%d-%m-%Y"}}</div>
+<div class="post_content">
+<p>{{post.content}}</p>
+</div>
+</div>
 
+</li>
+{% endfor %}
+</ul>
+</div>
 <!-- <a href="/portfolio/">More about me.</a> -->
-
-</section>
-  <div class="line-seperator-thin"></div>
-
-<section class="content-620">
-  <h2>
-  	Work.
-  </h2>
-<div class="work-example">
-<h3>
-  <a href="http://stickygram.com">StickyGram</a>
-</h3>
-<h3 class="subtitle">
-  A print service that turns your Instagrams into magnets
-</h3>
-
-</div>
-
-<div class="work-example">
-<h3>
-  <a href="http://foldable.me">Foldable.Me</a>
-</h3>
-<h3 class="subtitle">
-  Create little cardboard versions of you and your friends
-</h3>
-
-</div>
-
-<div class="work-example">
-<h3>
-  <a href="http://sexperienceuk.channel4.com/the-sexperience-1000"> The Sexperience 1000 </a>
-</h3>
-
-<h3 class="subtitle">
-Visualising the sexual habits of 1000 Brits
-</h3>
-
-</div>
-
-
-<!-- <a href="/portfolio/">More of my work</a> -->
-
-</section>
-
-<div class="line-seperator-thin"></div>
-
-<h3> <a href="mailto:contact@kzhu.net"> Contact </a> |  <a href="http://twitter.com/kzhu"> Twitter </a> </h3>
-
-
 
 
 <!--

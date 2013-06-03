@@ -29,7 +29,6 @@
 .grid_4 { width: 100%; }
 .grid_9 { width: 100%; }
 
-
 .grid_1,
 .grid_2,
 .grid_3,
@@ -49,7 +48,6 @@
 	margin: 0 2% 1% 0;
 	float: left;
 	display: block;
-	background-color: #ccc;
 }
 
 .alpha{margin-left:0px;}

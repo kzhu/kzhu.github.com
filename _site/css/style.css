@@ -44,9 +44,13 @@ h3 {
 	font-weight: 100;
 }
 
+a {
+	color: #00A599;
+}
+
 p {
 	font-size: 1em;
-	line-height: 1.4em;
+	line-height: 1.7em;
 }
 
 .date
@@ -111,7 +115,7 @@ p {
 
 .post_image img{
 	float: left;
-	padding-bottom: 2em;
+	padding-bottom: 3em;
 }
 
 ul{
@@ -189,17 +193,4 @@ p{
 
 @media screen and (min-width: 1280px) {
 
-#top_bar{
-height: 5em;
-max-height: 40px; 
-}
-
-#face{
-	float: right;
-	position: relative;
-}
-
-#top_parts{
-	margin-top: -1.9em;
-}
 

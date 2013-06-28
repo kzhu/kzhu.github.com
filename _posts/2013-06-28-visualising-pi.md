@@ -6,7 +6,7 @@ category: blog
 preview: As part of my plan to get more fluent with prototyping in code, I decided to build a 3D, animated visualisation of Pi using <a href="http://processingjs.org">Processing.JS</a>.
 extra_css: css/pi_vis.css
 extra_js: 
-- files/processing.js
+- files/processing-1.4.1.min.js
 - files/pi_vis.js
 ---
 

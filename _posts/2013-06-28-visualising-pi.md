@@ -12,7 +12,7 @@ extra_js:
 
 As part of my plan to get more fluent with prototyping in code, I decided to build a 3D, animated visualisation of Pi using [Processing.JS](http://processingjs.org). The result is here:
 <code>
-	<canvas id="pi_vis" data-processing-sources="files/sphere_master_v3.pde" style=" padding-left: 0; padding-right: 0; margin-left: auto; margin-right: auto; display: block; "></canvas>
+	<canvas id="pi_vis" data-processing-sources="files/sphere_master_v3.pde" style="image-rendering: -webkit-optimize-contrast !important;"></canvas>
 </code>
 
 Pi is an [enigmatic concept](http://en.wikipedia.org/wiki/Pi). On the one hand we can look at it simply as the ratio between the diameter of a circle and its circumference. On the other its an infinitely long number that, if proven to be randomly distributed, theoreticallys contain [all possible information in the universe](http://math.stackexchange.com/questions/216343/does-pi-contain-all-possible-number-combinations). For the purposes of this hack I decided to choose the former interpretation.

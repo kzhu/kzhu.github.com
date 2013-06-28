@@ -1,9 +1,12 @@
 #pi_vis
 {
-
-	width:300px;
-	height:300px 
-	image-rendering: -webkit-optimize-contrast !important;
+	padding-left: 0; 
+	padding-right: 0; 
+	margin-left: auto; 
+	margin-right: auto; 
+	display: block; 
+	width:200px;
+	height:200px 
 
 }
 

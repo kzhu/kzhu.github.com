@@ -2,7 +2,7 @@
 <html>
 <head>
   <meta charset=utf-8 />
-  <title>  Blog |  KZhu.net </title>
+  <title>  Visualising Pi |  KZhu.net </title>
   
   <link rel="stylesheet" type="text/css" href="css/normalize.css" media="screen">
   <link rel="stylesheet" type="text/css" href="css/grid.css" media="screen">
@@ -15,6 +15,10 @@
 
   <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scaleable=no">
 
+
+  <script type="text/javascript" src="files/processing.js"></script>
+
+  <script type="text/javascript" src="files/pi_vis.js"></script>
 
 
 
@@ -55,14 +59,12 @@
   -->
       
     <div class="grid_9" id="content">
-          <ul class="entries">
-
-<li>
-<a href="/visualising-pi.html">
-	<h2>Visualising Pi</h2>
-	</a>
-<div>28-06-2013</div>
-<p><p>As part of my plan to get more fluent with prototyping in code, I decided to build a 3D, animated visualisation of Pi using <a href='http://processingjs.org'>Processing.JS</a>. The result is here: <code>
+          <div class="post_image"><img src="/img/pi.jpg"></div>
+<div class="container">
+	<h2 class="post_title">Visualising Pi</h2>
+	<div class="date">28-06-2013</div>
+	<div class="post_content">
+<p>As part of my plan to get more fluent with prototyping in code, I decided to build a 3D, animated visualisation of Pi using <a href='http://processingjs.org'>Processing.JS</a>. The result is here: <code>
 	<canvas data-processing-sources='files/sphere_master_v3.pde' height='600' id='pi_vis' style=' padding-left: 0; padding-right: 0; margin-left: auto; margin-right: auto; display: block; ' width='600' />
 </code></p>
 
@@ -72,35 +74,9 @@
 
 <p>Main Lesson learnt; <strong>Processing Sucks Ass</strong>. There is no easy way to debug you program. Switching between Processing and ProcessingJS results in various parts breaking. Don&#8217;t ge me wrong, it allowed me to get up and running very fast. I am happy with the end result, however, in future I will probably first attempt to use a modern language such as Python.</p>
 
-<p><em>Apologies if this doesn&#8217;t display properly on your device. If anyone can suggest how to make the sketch responsive I&#8217;m all ears.<br /> The source code for this project is on <a href='https://github.com/kzhu/pi'>Github</a>.<br /> The header photo is courtesy of <a href='http://www.flickr.com/photos/goddess-arts/'>sarahwynne.</a></em></p></p>
-<div class="line-seperator-thin"></div>
-
-</li>
-
-<li>
-<a href="/hello-world.html">
-	<h2>Hello World</h2>
-	</a>
-<div>06-06-2013</div>
-<p><p>This is my first post on my brand new blog. It&#8217;s been 3 years since I last attempted to publish anything on the web. For a while at least, the writing here will be confusing and at best awkward. Bear with me.</p>
-
-<p>I created this blog as an outlet for my ideas and projects. I&#8217;m a firm believer in the importance of putting what you create into the world. Without the fear of scrutiny our creations rarely receive the attention they need to fulfill their ambition. It also serves as a convenient stopping point from all the tweaking.</p>
-
-<p>At the moment I&#8217;ve been learning to code. Simple things. My goal is not to become a paid developer. I did that once. I wasn&#8217;t very good. This time around I want to get a better understanding of how digital products are built. Hopefully these skills will enhance my design work, let me build some fun hacks and at the very least look less gormless when someone starts talking about the DOM or Backbone.</p>
-
-<p>The first project I have to showcase is this blog. I built this using the wonderfully light weight <a href='http://jekyllbootstrap.com/'>Jekyll-Bootstrap</a> framework hosted on <a href='http://pages.github.com'>Github Pages</a>. It was a bit tricky getting everything set up but the tutorials made it relatively painfree.</p>
-
-<p>Rather than use a template as a starting point, I decided to code the html and css from scratch. I also set myself the additional challenge of making it a responsive site so that it works across different devices. The tutorials at <a href='http://teamtreehouse.com'>Treehouse</a> made is really straight forward even if the style of video made me cringe.</p>
-
-<p>In addition, I got to grips with using <a href='http:/github.com'>Github</a> for my version control and used <a href='http://icomoon.io/'>IcoMoon</a> to create the font icons in the top bar.</p>
-
-<p>Whilst it&#8217;s not the most inventive design I&#8217;m pretty satisfied with what I&#8217;m starting with. There will be ongoing improvements as I test different approaches and techniques.</p></p>
-<div class="line-seperator-thin"></div>
-
-</li>
-
-</ul>
-
+<p><em>Apologies if this doesn&#8217;t display properly on your device. If anyone can suggest how to make the sketch responsive I&#8217;m all ears.<br /> The source code for this project is on <a href='https://github.com/kzhu/pi'>Github</a>.<br /> The header photo is courtesy of <a href='http://www.flickr.com/photos/goddess-arts/'>sarahwynne.</a></em></p>
+</div>
+</div>
     </div>
     <div class="grid_4 alpha"></div>
     <div class="grid_9" id="footer">

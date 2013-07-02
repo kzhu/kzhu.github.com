@@ -19,7 +19,7 @@ Pi is an [enigmatic concept](http://en.wikipedia.org/wiki/Pi). On the one hand w
 
 To begin with I generated a long string of Pi digits using [Machin's formula](http://www.craig-wood.com/nick/articles/pi-machin/). Fortunately, I could pull the bulk of the implementation from this [tutorial](http://docs.oracle.com/javase/tutorial/rmi/client.html). I then displayed these digits as circles of varying size distributed on the surface of a sphere. This was simply a matter of plotting spherical polar coordinates in 3D space. Finally, I used panned the camera angle to give the appearance of movement.
 
-Main Lesson learnt; __Processing Sucks Ass__. There is no easy way to debug you program. Switching between Processing and ProcessingJS results in various parts breaking. Don't ge me wrong, it allowed me to get up and running very fast. I am happy with the end result, however, in future I will probably first attempt to use a modern language such as Python.
+Main Lesson learnt; __Processing Is A Bit Pants__. There is no easy way to debug you program. Switching between Processing and ProcessingJS results in various parts breaking. Don't ge me wrong, it allowed me to get up and running very fast. I am happy with the end result, however, in future I will probably first attempt to use a modern language such as Python.
 
 _Apologies if this doesn't display properly on your device. If anyone can suggest how to make the sketch responsive I'm all ears.<br>
 The source code for this project is on [Github](https://github.com/kzhu/pi).<br>

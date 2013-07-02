@@ -2,7 +2,7 @@
 <html>
 <head>
   <meta charset=utf-8 />
-  <title>  Blog |  KZhu.net </title>
+  <title>  Exits and Acquisitions |  KZhu.net </title>
   
   <link rel="stylesheet" type="text/css" href="css/normalize.css" media="screen">
   <link rel="stylesheet" type="text/css" href="css/grid.css" media="screen">
@@ -57,14 +57,12 @@
   -->
       
     <div class="grid_9" id="content">
-          <ul class="entries">
-
-<li>
-<a href="/exits-and-acquisitions.html">
-	<h2>Exits and Acquisitions</h2>
-	</a>
-<div>02-07-2013</div>
-<p><p>Last Sunday, it was announced that the service I had created, <a href='http://stickygram.com'>StickyGram</a>, was acquired by <a href='http://mintdigital.com/blog/photobox_stickygram'>PhotoBox</a>. The official announcement covers the specifics of the deal and the sentiments of the team. These are a few of my own reflections.</p>
+          <div class="post_image"><img src="/img/sg.jpeg"></div>
+<div class="container">
+	<h2 class="post_title">Exits and Acquisitions</h2>
+	<div class="date">02-07-2013</div>
+	<div class="post_content">
+<p>Last Sunday, it was announced that the service I had created, <a href='http://stickygram.com'>StickyGram</a>, was acquired by <a href='http://mintdigital.com/blog/photobox_stickygram'>PhotoBox</a>. The official announcement covers the specifics of the deal and the sentiments of the team. These are a few of my own reflections.</p>
 
 <p>For me, the deal marked a positive end to an extraordinary personal journey that started more than two years ago. This was my first real business. I had dabbled with ideas before, but I never had the fortitude or courage to see any of them through. From the start, I made a conscious decision to do this for the learning and not the &#8220;exit&#8221;. Perhaps that&#8217;s what made it different.</p>
 
@@ -104,55 +102,9 @@
 
 <p><em>Thanks to following people for helping me write this:</em></p>
 
-<p><a href='http://twitter.com/utku'>@utku</a> <a href='http://twitter.com/r4vi'>@r4vi</a> <a href='http://twitter.com/glasschance'>@glasschance</a> <a href='https://twitter.com/jamescmitchell'>@jamesmitchell</a></p></p>
-<div class="line-seperator-thin"></div>
-
-</li>
-
-<li>
-<a href="/visualising-pi.html">
-	<h2>Visualising Pi</h2>
-	</a>
-<div>28-06-2013</div>
-<p><p>As part of my plan to get more fluent with prototyping in code, I decided to build a 3D, animated visualisation of Pi using <a href='http://processingjs.org'>Processing.JS</a>. The result is here: <code>
-	<canvas data-processing-sources='files/sphere_master_v3.pde' id='pi_vis' style='image-rendering: -webkit-optimize-contrast !important;' />
-</code></p>
-
-<p>Pi is an <a href='http://en.wikipedia.org/wiki/Pi'>enigmatic concept</a>. On the one hand we can look at it simply as the ratio between the diameter of a circle and its circumference. On the other its an infinitely long number that, if proven to be randomly distributed, theoreticallys contain <a href='http://math.stackexchange.com/questions/216343/does-pi-contain-all-possible-number-combinations'>all possible information in the universe</a>. For the purposes of this hack I decided to choose the former interpretation.</p>
-
-<p>To begin with I generated a long string of Pi digits using <a href='http://www.craig-wood.com/nick/articles/pi-machin/'>Machin&#8217;s formula</a>. Fortunately, I could pull the bulk of the implementation from this <a href='http://docs.oracle.com/javase/tutorial/rmi/client.html'>tutorial</a>. I then displayed these digits as circles of varying size distributed on the surface of a sphere. This was simply a matter of plotting spherical polar coordinates in 3D space. Finally, I used panned the camera angle to give the appearance of movement.</p>
-
-<p>Main Lesson learnt; <strong>Processing Sucks Ass</strong>. There is no easy way to debug you program. Switching between Processing and ProcessingJS results in various parts breaking. Don&#8217;t ge me wrong, it allowed me to get up and running very fast. I am happy with the end result, however, in future I will probably first attempt to use a modern language such as Python.</p>
-
-<p><em>Apologies if this doesn&#8217;t display properly on your device. If anyone can suggest how to make the sketch responsive I&#8217;m all ears.<br /> The source code for this project is on <a href='https://github.com/kzhu/pi'>Github</a>.<br /> The header photo is courtesy of <a href='http://www.flickr.com/photos/goddess-arts/'>sarahwynne.</a></em></p></p>
-<div class="line-seperator-thin"></div>
-
-</li>
-
-<li>
-<a href="/hello-world.html">
-	<h2>Hello World</h2>
-	</a>
-<div>06-06-2013</div>
-<p><p>This is my first post on my brand new blog. It&#8217;s been 3 years since I last attempted to publish anything on the web. For a while at least, the writing here will be confusing and at best awkward. Bear with me.</p>
-
-<p>I created this blog as an outlet for my ideas and projects. I&#8217;m a firm believer in the importance of putting what you create into the world. Without the fear of scrutiny our creations rarely receive the attention they need to fulfill their ambition. It also serves as a convenient stopping point from all the tweaking.</p>
-
-<p>At the moment I&#8217;ve been learning to code. Simple things. My goal is not to become a paid developer. I did that once. I wasn&#8217;t very good. This time around I want to get a better understanding of how digital products are built. Hopefully these skills will enhance my design work, let me build some fun hacks and at the very least look less gormless when someone starts talking about the DOM or Backbone.</p>
-
-<p>The first project I have to showcase is this blog. I built this using the wonderfully light weight <a href='http://jekyllbootstrap.com/'>Jekyll-Bootstrap</a> framework hosted on <a href='http://pages.github.com'>Github Pages</a>. It was a bit tricky getting everything set up but the tutorials made it relatively painfree.</p>
-
-<p>Rather than use a template as a starting point, I decided to code the html and css from scratch. I also set myself the additional challenge of making it a responsive site so that it works across different devices. The tutorials at <a href='http://teamtreehouse.com'>Treehouse</a> made is really straight forward even if the style of video made me cringe.</p>
-
-<p>In addition, I got to grips with using <a href='http:/github.com'>Github</a> for my version control and used <a href='http://icomoon.io/'>IcoMoon</a> to create the font icons in the top bar.</p>
-
-<p>Whilst it&#8217;s not the most inventive design I&#8217;m pretty satisfied with what I&#8217;m starting with. There will be ongoing improvements as I test different approaches and techniques.</p></p>
-<div class="line-seperator-thin"></div>
-
-</li>
-
-</ul>
-
+<p><a href='http://twitter.com/utku'>@utku</a> <a href='http://twitter.com/r4vi'>@r4vi</a> <a href='http://twitter.com/glasschance'>@glasschance</a> <a href='https://twitter.com/jamescmitchell'>@jamesmitchell</a></p>
+</div>
+</div>
     </div>
     <div class="grid_4 alpha"></div>
     <div class="grid_9" id="footer">

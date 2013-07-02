@@ -127,15 +127,16 @@ onload=lzld(this)> </img> </p>
     <canvas id="pi_vis" data-processing-sources="files/sphere_master_v3.pde" style="image-rendering: -webkit-optimize-contrast !important;"></canvas>
 </code></p>
 
+<p><em>Currently having some issues displaying this in all browsers. If anyone can shed some light on this I&#39;d be most appreciative</em></p>
+
 <p>Pi is an <a href="http://en.wikipedia.org/wiki/Pi">enigmatic concept</a>. On the one hand we can look at it simply as the ratio between the diameter of a circle and its circumference. On the other its an infinitely long number that, if proven to be randomly distributed, theoreticallys contain <a href="http://math.stackexchange.com/questions/216343/does-pi-contain-all-possible-number-combinations">all possible information in the universe</a>. For the purposes of this hack I decided to choose the former interpretation.</p>
 
 <p>To begin with I generated a long string of Pi digits using <a href="http://www.craig-wood.com/nick/articles/pi-machin/">Machin&#39;s formula</a>. Fortunately, I could pull the bulk of the implementation from this <a href="http://docs.oracle.com/javase/tutorial/rmi/client.html">tutorial</a>. I then displayed these digits as circles of varying size distributed on the surface of a sphere. This was simply a matter of plotting spherical polar coordinates in 3D space. Finally, I used panned the camera angle to give the appearance of movement.</p>
 
 <p>Main Lesson learnt; <strong>Processing Is A Bit Pants</strong>. There is no easy way to debug you program. Switching between Processing and ProcessingJS results in various parts breaking. Don&#39;t ge me wrong, it allowed me to get up and running very fast. I am happy with the end result, however, in future I will probably first attempt to use a modern language such as Python.</p>
 
-<p><em>Apologies if this doesn&#39;t display properly on your device. If anyone can suggest how to make the sketch responsive I&#39;m all ears.<br>
-The source code for this project is on <a href="https://github.com/kzhu/pi">Github</a>.<br>
-The header photo is courtesy of <a href="http://www.flickr.com/photos/goddess-arts/">sarahwynne.</a></em></p>
+<p>The source code for this project is on <a href="https://github.com/kzhu/pi">Github</a>.<br>
+The header photo is courtesy of <a href="http://www.flickr.com/photos/goddess-arts/">sarahwynne.</a>_</p>
 </p>
 <div class="line-seperator-thin"></div>
 

@@ -1,6 +1,6 @@
 ---
 layout: blog_entry
-title: Exits and Acquisitions
+title: My First Exit
 image: /img/sg.jpeg
 category: blog
 extra_js: files/lazyload.min.js

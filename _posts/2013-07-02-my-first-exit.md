@@ -18,7 +18,7 @@ onload=lzld(this)> </img>
 
 It began with a fairly trivial idea; turn people's Instagram images into fridge magnets. Over time, we grew it into a service that reached all around the world. In between, there was excitment, doubt, disappointment and elation. But mostly there was grind. No "hockey stick" growth, just small victories we fought for and earned each day. Somedays, we messed up. We couldn't always give 100%. I probably beat myself up too much for it.
 
-In many ways, we were lucky. The Instagram team built an incredible product. Without their vision and focused execution there wouldn't be a vibrant community sharing their lives in images. Also, we didn't need outside investors. My employers, [Mint Digital](http://mintdigital), were willing to take a gamble and allowed me to start it from within the agency. I am tremendously grateful to have been given the resources, mentoring and autonomy to follow my instincts.
+In many ways, we were lucky. The Instagram team built an incredible product. Without their vision and focused execution there wouldn't be a vibrant community sharing their lives in images. Also, we didn't need outside investors. My employers, [Mint Digital](http://mintdigital.com), were willing to take a gamble and allowed me to start it from within the agency. I am tremendously grateful to have been given the resources, mentoring and autonomy to follow my instincts.
 
 <img data-src="img/stickygram-02.jpg" src=data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
 onload=lzld(this)> </img> 

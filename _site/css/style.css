@@ -118,6 +118,11 @@ p {
 
 /* entries */
 
+.post_content
+{
+	text-align: left;
+}
+
 .post_image{
 	height: 150px;
 	margin-top: -1.1em;
@@ -140,11 +145,6 @@ ul{
 	margin-left: auto;
 	padding-top: 1em;
 	width: 80%;
-}
-
-.post_content
-{
-	text-align: justify;
 }
 
 #footer{
@@ -205,6 +205,11 @@ p{
 	max-width: 800px;
 	margin-right: auto;
 	margin-left: auto;
+}
+
+.post_content
+{
+	text-align: justify;
 }
 
 @media screen and (min-width: 1280px) {

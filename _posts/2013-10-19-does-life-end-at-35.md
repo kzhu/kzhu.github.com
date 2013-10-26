@@ -48,7 +48,7 @@ My grandpa had no choice but to wait a long time for his opportunity. It's likel
 <div class="image">
 <img data-src="img/grandpa_wifi.jpg" src=data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
 onload=lzld(this)> </img> 
-<h4> Jacking wifi from the hotel over the road </h4>
+<h4> Jacking wifi for his beloved iPad</h4>
 </div>
 
 His advice to me: Don't be in so much of a rush. Be easier on yourself. Comparing yourself to what others are doing is a waste of time. He also adds an old Chinese saying "大器晚成" - A big construction is always completed late.

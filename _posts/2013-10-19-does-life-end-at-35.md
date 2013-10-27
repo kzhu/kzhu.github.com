@@ -57,7 +57,7 @@ With this in mind, I feel more positive about entering my third decade. There's 
 
 ----
 
-If this has provoked any ideas of your own I'd love to hear from you @kzhu
+If this has provoked any ideas of your own I'd love to hear from you [@kzhu](http://twitter.com/kzhu)
 
 _Thanks to following people for helping me write this:_
 

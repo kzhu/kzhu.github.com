@@ -8,7 +8,7 @@ preview: Do you sometimes lie awake worrying that you aren't succeeding fast eno
 
 ---
 
-Do you sometimes lie awake worrying that you aren't succeeding fast enough? Are you tortured by your lack of a million dollar business, critically acclaimed book, groundbreaking patents or iron-man medal? Does it torture you that your younger peers seem to be all streaking past you in the game of life? Take a deep breath. My 92 year old grandpa has some advice for you.
+Do you sometimes lie awake worrying that you aren't succeeding fast enough? Are you tortured by younger peers who have global businesses, penned acclaimed books and a string of iron-man medals? Do you count down the years until you can no longer make the 30 under 30 list? Take a deep breath. My 92 year old grandpa has some advice for you.
 
 <div class="image">
 <img data-src="img/grandpa_sitting.jpg" src=data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
@@ -16,7 +16,7 @@ onload=lzld(this)> </img>
 <h4>Now listen up</h4>
 </div>
 
-I visited him in Beijing recently. We were taking a stroll after dinner. I was pestering him for details about his accomplished career, looking for tidbits that might help my own. What was he like at my age? How did he work? Is there a secret a routine? He stops me mid-sentence "You know, my career only really took off after I turned 58". 
+He is a tremendously accomplished individual and considered by many to be a pioneer in biomedical engineering. I visited him in Beijing recently. We were taking an after dinner stroll. I was pestering him for details about his career, looking for tidbits that might help my own. What was he like at my age? How did he work? Is there a secret a routine? He stops me mid-sentence "You know, my career only really took off after I turned 58". 
 
 Hang on, what? 
 
@@ -36,7 +36,7 @@ Having only been allowed to complete his undergraduate degree, he spent decades 
 <div class="image">
 <img data-src="img/grandpa_study.jpg" src=data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
 onload=lzld(this)> </img> 
-<h4> Studious young man </h4>
+<h4> As a studious young man </h4>
 </div>
 
 My grandpa's story made me reflect upon the worship of youthful achievement and our drive to get it all so early in life. I, like many other insecure overachievers, feel an urgency to do big things. Deep down I know this anxiety is root in fear. That I'm not actually any good. That I will waste my shot at life and be a disappointment. So I strive for a quick success because I need to validate my worth. After that I can relax and everything will be plain sailing. Right? Instead, this warped expectation more often leads me to behave in a manner that's unsustainable and counterproductive. 
@@ -48,7 +48,7 @@ My grandpa had no choice but to wait a long time for his opportunity. It's likel
 <div class="image">
 <img data-src="img/grandpa_wifi.jpg" src=data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
 onload=lzld(this)> </img> 
-<h4> Jacking wifi for his beloved iPad</h4>
+<h4> Stealing wifi for his beloved iPad</h4>
 </div>
 
 His advice to me: Don't be in so much of a rush. Be easier on yourself. Comparing yourself to what others are doing is a waste of time. He also adds an old Chinese saying "大器晚成" - A big construction is always completed late.

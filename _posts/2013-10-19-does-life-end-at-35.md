@@ -32,7 +32,7 @@ onload=lzld(this)> </img>
 
 It began in 1976, with the death of Chairman Mao. Under his rule, China experienced decades of hardship. Academia was heavily restricted and the country had become technologically isolated. Prior to this, my grandpa had lived through the invasion, civil war and famine. With Mao out of the picture, the new leadership were desperate for reform. In a push to kickstart research, the government reached out to academics all over the country. My grandpa was one of them.
 
-Having only been allowed to complete his undergraduate degree, he spent decades doing whatever research and teaching came his way. Eventually - and this is the key word- he worked his way up to become an associate professor in electrical engineering at a respected university. In 1977, despite being close to retirement, he seized upon his new professional freedom. In front of China's senior academics and officials, he presented a convincing proposal to explore the emerging field of Biomedical Engineering, a term only recently coined in the West. Over the next decade, he spearheaded research and collaborations that would make technology such as CT, ultrasound and CAT scans a pervasive part of Chinese healthcare. Even after retirement, he was still mentoring PhD students well into his 70s.
+Having only been allowed to complete his undergraduate degree, he spent decades doing whatever research and teaching came his way. Eventually - and this is the key word- he worked his way up to become a  professor in electrical engineering at a respected university. In 1977, despite being close to retirement, he seized upon his new professional freedom. In front of China's senior academics and officials, he presented a convincing proposal to explore the emerging field of Biomedical Engineering, a term only recently coined in the West. Over the next decade, he spearheaded research and collaborations that would make technology such as CT, ultrasound and CAT scans a pervasive part of Chinese healthcare. Even after retirement, he was still mentoring PhD students well into his 70s.
 <div class="image">
 <img data-src="img/grandpa_study.jpg" src=data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
 onload=lzld(this)> </img> 
@@ -43,7 +43,7 @@ My grandpa's story made me reflect upon the worship of youthful achievement and 
 
 It's easy to forget that our careers extend for decades beyond our 20s and 30s. The truth is significant works usually take a long time. Whether it's business, academia or the arts, most of the contributions made have been the result of many years of toil. It's just that we hear of the young overnight success because that's a more attractive narrative. Even then, those rare few who achieve a lot early in life do not simply stop. The race doesn't end with the win.
 
-My grandpa had no choice but to wait a long time for his opportunity. It's likely he would have achieved even more had be moved to the West. However, had he missed his moment, I dare say he would still have had a fulfilling life. Without the acclaim and recognition he'd still be the jovial, curious and industrious man I love. 
+My grandpa had no choice but to wait a long time for his opportunity. It's likely he would have achieved even more had he moved to the West. However, had he missed his moment, I dare say he would still have had a fulfilling life. Without the acclaim and recognition he'd still be the jovial, curious and industrious man I love. 
 
 <div class="image">
 <img data-src="img/grandpa_wifi.jpg" src=data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
@@ -53,7 +53,7 @@ onload=lzld(this)> </img>
 
 His advice to me: Don't be in so much of a rush. Be easier on yourself. Comparing yourself to what others are doing is a waste of time. He also adds an old Chinese saying "大器晚成" - A big construction is always completed late.
 
-With this in mind, I feel more positive about entering my third decade. There's still loads I want do and I  feel good about figuring out what success means to me, a topic which I will leave for another article. As always, I look to my grandfather for inspiration. He recently Skyped me about co-patenting  a new method of microwave cooking. I think he was only semi-joking.
+With this in mind, I feel more positive about entering my fourth decade. There's still loads I want do and I  feel good about figuring out what success means to me, a topic which I will leave for another article. As always, I look to my grandfather for inspiration. He recently Skyped me about co-patenting  a new method of microwave cooking. I think he was only semi-joking.
 
 ----
 
